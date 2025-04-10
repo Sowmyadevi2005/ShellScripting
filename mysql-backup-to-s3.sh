@@ -11,7 +11,7 @@
 
 DB_HOST="mysql-db.c030qy8mgi7w.us-east-1.rds.amazonaws.com"
 DB_USER="admin"
-DB_PASSWORD="Sowmyadevi"
+DB_PASSWORD="Sowmyadevi" 
 DB_NAME="devopsdb"
 S3_BUCKET="mysql-db-backup-to-s3"
 RETENTION_DAYS=3
